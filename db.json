@@ -1,4 +1,4 @@
-{
+[
   {
     "UserID": 1,
     "id": 1,
@@ -17,28 +17,4 @@
     "title": "Read Something",
     "completed": false
   },
-  {
-    "UserID": 1,
-    "id": 4,
-    "title": "Say Something",
-    "completed": false
-  },
-  {
-    "UserID": 1,
-    "id": 5,
-    "title": "Kick Something",
-    "completed": false
-  },
-  {
-    "UserID": 1,
-    "id": 6,
-    "title": "Smell Something",
-    "completed": false
-  },
-  {
-    "UserID": 1,
-    "id": 7,
-    "title": "Punch Something",
-    "completed": false
-  }
-}
+]
