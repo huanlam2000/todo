@@ -1,4 +1,4 @@
-{
+[
   {
     "UserID": 1,
     "id": 1,
@@ -17,4 +17,4 @@
     "title": "Read Something",
     "completed": false
   }
-}
+]
